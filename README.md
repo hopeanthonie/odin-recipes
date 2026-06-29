@@ -1,34 +1,45 @@
-# Project Title
-ODIN RECIPES
+# Odin Recipes
 
-# Project Description
-This is a project that showcases all that was learnt in the HTML Foundations Section of the Odin Project
+A simple recipe website built as part of the Odin Project HTML Foundations lesson.
+
+## ✨ Features
+- Browse a collection of recipe pages
+- View simple recipe content in a clean layout
+- Practice basic HTML structure and page linking
 
 ## 🛠️ Built With
-* HTML 5
+- HTML5
 
 ## 📦 Installation
-Step-by-step instructions to set up the project locally.
-
-1. created and Cloned repository:
-   \`\`\`bash
-  git clone https://github.com/hopeanthonie/odin-recipes.git
-   \`\`\`
-2. Navigate to the project directory:
-   \`\`\`bash
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hopeanthonie/odin-recipes.git
+   ```
+2. Navigate to the project folder:
+   ```bash
    cd odin-recipes
-   \`\`\`
-3. created README File
-   \`\`\`bash
-   touch README.MD
-   \`\`\`
+   ```
+3. Open the homepage in your browser:
+   ```bash
+   start index.html
+   ```
 
 ## 💻 Usage
-Provide a quick example or command to run the project.
-
-\`\`\`bash
-npm start  # (Or your specific run command)
-\`\`\`
+Open [index.html](index.html) in your browser to view the recipe homepage and explore the recipe links.
 
 ## 👤 Author
-* Your Name - [GitHub Profile](https://github.com/hopeanthonie)
+Hope Anthonie - [GitHub Profile](https://github.com/hopeanthonie)
+
+# Odin Recipes
+
+A simple recipe website built as part of the Odin Project HTML Foundations lesson.
+
+## Features
+- Browse multiple recipe pages
+- View simple recipe content in a clean layout
+- Practice basic HTML structure and linking
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hopeanthonie/odin-recipes.git
